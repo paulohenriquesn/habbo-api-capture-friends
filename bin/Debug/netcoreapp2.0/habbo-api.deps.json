@@ -1,0 +1,38 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "678bc1c6ad32501ac92e6a38a60a24d102c5d8ea"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "habbo-api/1.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "11.0.1-beta3"
+        },
+        "runtime": {
+          "habbo-api.dll": {}
+        }
+      },
+      "Newtonsoft.Json/11.0.1-beta3": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "habbo-api/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Newtonsoft.Json/11.0.1-beta3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-z9IZ3Ecun2TuF/vjYstOuAvk5lldAPrw0foD5pLJi2toown8KX69gExZwPP8oknynMieQ6lBFf+l/MVZ+/BFAw==",
+      "path": "newtonsoft.json/11.0.1-beta3",
+      "hashPath": "newtonsoft.json.11.0.1-beta3.nupkg.sha512"
+    }
+  }
+}

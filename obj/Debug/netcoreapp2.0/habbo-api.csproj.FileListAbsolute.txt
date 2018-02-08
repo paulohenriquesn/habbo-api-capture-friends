@@ -1,0 +1,10 @@
+/home/paulohenriquesn/Documentos/habbo-api/bin/Debug/netcoreapp2.0/habbo-api.deps.json
+/home/paulohenriquesn/Documentos/habbo-api/bin/Debug/netcoreapp2.0/habbo-api.runtimeconfig.json
+/home/paulohenriquesn/Documentos/habbo-api/bin/Debug/netcoreapp2.0/habbo-api.runtimeconfig.dev.json
+/home/paulohenriquesn/Documentos/habbo-api/bin/Debug/netcoreapp2.0/habbo-api.dll
+/home/paulohenriquesn/Documentos/habbo-api/bin/Debug/netcoreapp2.0/habbo-api.pdb
+/home/paulohenriquesn/Documentos/habbo-api/obj/Debug/netcoreapp2.0/habbo-api.csproj.CoreCompileInputs.cache
+/home/paulohenriquesn/Documentos/habbo-api/obj/Debug/netcoreapp2.0/habbo-api.AssemblyInfoInputs.cache
+/home/paulohenriquesn/Documentos/habbo-api/obj/Debug/netcoreapp2.0/habbo-api.AssemblyInfo.cs
+/home/paulohenriquesn/Documentos/habbo-api/obj/Debug/netcoreapp2.0/habbo-api.dll
+/home/paulohenriquesn/Documentos/habbo-api/obj/Debug/netcoreapp2.0/habbo-api.pdb
