@@ -1,0 +1,1 @@
+# habbo-api-capture-friends
